@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularDuracaoEmHoras", "CalcularDuracaoEmHoras\CalcularDuracaoEmHoras.csproj", "{609B5E6A-B898-4936-9E93-569E0A0E5463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609B5E6A-B898-4936-9E93-569E0A0E5463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609B5E6A-B898-4936-9E93-569E0A0E5463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609B5E6A-B898-4936-9E93-569E0A0E5463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609B5E6A-B898-4936-9E93-569E0A0E5463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F03768-DB8A-43C9-A36E-5C66F7251D0E}
+	EndGlobalSection
+EndGlobal
